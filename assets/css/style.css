@@ -89,8 +89,8 @@ img {
 }
 
 #headshot {
-    height: 150px;
-    width: 250px;
+    width: 50%;
+    height: auto;
     padding: 10px 20px 10px 0px;
 }
 
@@ -103,10 +103,11 @@ div {
 p {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 16px;
-    line-height: 32px;
+    line-height: 200%;
     color: #777777;
     margin-block-start: 0px;
     margin-block-end: 0px;
+    padding-bottom: 10px;
 }
 
 .card-container {
@@ -131,7 +132,7 @@ p {
     border: none;
     padding: 15px;
     width: 300px;
-    bottom: 50px;
+    bottom: 15px;
 }
 
 .input-field {
