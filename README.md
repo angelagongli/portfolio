@@ -4,14 +4,14 @@
 This website is a portfolio showcasing a number of projects from my work. It also provides some basic background information about me, and enables online visitors to leave a message via contact form.
 
 The website consists of three separate pages:
-* [About Me](index.html): a brief introduction to who I am
-* [Portfolio](portfolio.html): displays a collection of projects from my work
-* [Contact](contact.html): a contact form for online users to type and submit a message
+* [About Me](https://angelagongli.github.io/portfolio/index.html): a brief introduction to who I am
+* [Portfolio](https://angelagongli.github.io/portfolio/portfolio.html): displays a collection of projects from my work
+* [Contact](https://angelagongli.github.io/portfolio/contact.html): a contact form for online users to type and submit a message
 
 ## Credits
 The background image used on each page of this website was taken from the free library of patterns at [Subtle Patterns](https://subtlepatterns.com/).
 
-The background images used in the various project cards shown on the Portfolio page were sourced from the following websites:
+The images used in the various project cards shown on the Portfolio page were sourced from the following websites:
 * https://buffalobayou.org/
 * https://www.presentationmagazine.com/
 * https://www.lifehacker.com.au/
