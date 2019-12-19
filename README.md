@@ -1,11 +1,11 @@
 # Portfolio
 
 ## Description
-This website is a portfolio showcasing a number of projects from my work. It also provides some basic background information about me, and enables online visitors to leave a message via contact form.
+This website is a portfolio showcasing a number of project chosen from my work. It also provides some basic background information about me, and enables online visitors to leave a message via contact form.
 
 The website consists of three separate pages:
 * [About Me](https://angelagongli.github.io/portfolio/index.html): a brief introduction to who I am
-* [Portfolio](https://angelagongli.github.io/portfolio/portfolio.html): displays a collection of projects from my work
+* [Portfolio](https://angelagongli.github.io/portfolio/portfolio.html): displays a collection of projects selected from my work
 * [Contact](https://angelagongli.github.io/portfolio/contact.html): a contact form for online users to type and submit a message
 
 ## Credits
